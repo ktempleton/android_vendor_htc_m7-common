@@ -24,20 +24,27 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/sbin/tpd:root/sbin/tpd \
     $(LOCAL_PATH)/proprietary/system/bin/adaptive:system/bin/adaptive \
     $(LOCAL_PATH)/proprietary/system/bin/akmd:system/bin/akmd \
+    $(LOCAL_PATH)/proprietary/system/bin/awb_camera:system/bin/awb_camera \
     $(LOCAL_PATH)/proprietary/system/bin/bma150_usr:system/bin/bma150_usr \
     $(LOCAL_PATH)/proprietary/system/bin/charging:system/bin/charging \
     $(LOCAL_PATH)/proprietary/system/bin/efsks:system/bin/efsks \
     $(LOCAL_PATH)/proprietary/system/bin/flash_camera:system/bin/flash_camera \
     $(LOCAL_PATH)/proprietary/system/bin/ks:system/bin/ks \
+    $(LOCAL_PATH)/proprietary/system/bin/lsc_camera:system/bin/lsc_camera \
+    $(LOCAL_PATH)/proprietary/system/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     $(LOCAL_PATH)/proprietary/system/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     $(LOCAL_PATH)/proprietary/system/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    $(LOCAL_PATH)/proprietary/system/bin/mm-qcamera-test:system/bin/mm-qcamera-test \
+    $(LOCAL_PATH)/proprietary/system/bin/mm-qcamera-testsuite-client:system/bin/mm-qcamera-testsuite-client \
     $(LOCAL_PATH)/proprietary/system/bin/mpdecision:system/bin/mpdecision \
+    $(LOCAL_PATH)/proprietary/system/bin/netmgrd:system/bin/netmgrd \
     $(LOCAL_PATH)/proprietary/system/bin/netsharing:system/bin/netsharing \
+    $(LOCAL_PATH)/proprietary/system/bin/ois_camera:system/bin/ois_camera \
     $(LOCAL_PATH)/proprietary/system/bin/qcks:system/bin/qcks \
     $(LOCAL_PATH)/proprietary/system/bin/qmuxd:system/bin/qmuxd \
+    $(LOCAL_PATH)/proprietary/system/bin/test_gemini:system/bin/test_gemini \
     $(LOCAL_PATH)/proprietary/system/bin/thermald:system/bin/thermald \
     $(LOCAL_PATH)/proprietary/system/bin/zchgd:system/bin/zchgd \
-    $(LOCAL_PATH)/proprietary/system/bin/netmgrd:system/bin/netmgrd \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
@@ -75,6 +82,13 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
     $(LOCAL_PATH)/proprietary/system/etc/agps_rm:system/etc/agps_rm \
+    $(LOCAL_PATH)/proprietary/system/etc/ar0260_1:system/etc/ar0260_1 \
+    $(LOCAL_PATH)/proprietary/system/etc/cir.img:system/etc/cir.img \
+    $(LOCAL_PATH)/proprietary/system/etc/hldm.bin:system/etc/hldm.bin \
+    $(LOCAL_PATH)/proprietary/system/etc/hltof.bin:system/etc/hltof.bin \
+    $(LOCAL_PATH)/proprietary/system/etc/hltrd.bin:system/etc/hltrd.bin \
+    $(LOCAL_PATH)/proprietary/system/etc/ov2722_1:system/etc/ov2722_1 \
+    $(LOCAL_PATH)/proprietary/system/etc/RT5501:system/etc/RT5501 \
     $(LOCAL_PATH)/proprietary/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     $(LOCAL_PATH)/proprietary/system/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
