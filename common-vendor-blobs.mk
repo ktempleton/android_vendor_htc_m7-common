@@ -146,6 +146,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmllite.so:system/lib/libmllite.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmlplatform.so:system/lib/libmlplatform.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libmm-abl.so:system/lib/libmm-abl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmmcamera_aec.so:system/lib/libmmcamera_aec.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
     $(LOCAL_PATH)/proprietary/system/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
