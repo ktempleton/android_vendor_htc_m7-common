@@ -110,6 +110,34 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libcameraface.so:system/lib/libcameraface.so \
     $(LOCAL_PATH)/proprietary/system/lib/libcamerapp.so:system/lib/libcamerapp.so \
     $(LOCAL_PATH)/proprietary/system/lib/libcam_oem_plugin.so:system/lib/libcam_oem_plugin.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ar0260_default_video.so:system/lib/libchromatix_ar0260_default_video.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ar0260_hdr.so:system/lib/libchromatix_ar0260_hdr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ar0260_preview.so:system/lib/libchromatix_ar0260_preview.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ar0260_zsl.so:system/lib/libchromatix_ar0260_zsl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx135_default_video.so:system/lib/libchromatix_imx135_default_video.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx135_hdr.so:system/lib/libchromatix_imx135_hdr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx135_hfr.so:system/lib/libchromatix_imx135_hfr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx135_preview.so:system/lib/libchromatix_imx135_preview.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx135_zsl.so:system/lib/libchromatix_imx135_zsl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx175_default_video.so:system/lib/libchromatix_imx175_default_video.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx175_hdr.so:system/lib/libchromatix_imx175_hdr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx175_hfr.so:system/lib/libchromatix_imx175_hfr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx175_preview.so:system/lib/libchromatix_imx175_preview.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_imx175_zsl.so:system/lib/libchromatix_imx175_zsl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov2722_default_video.so:system/lib/libchromatix_ov2722_default_video.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov2722_hdr.so:system/lib/libchromatix_ov2722_hdr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov2722_preview.so:system/lib/libchromatix_ov2722_preview.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov2722_zsl.so:system/lib/libchromatix_ov2722_zsl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov5693_default_video.so:system/lib/libchromatix_ov5693_default_video.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov5693_hdr.so:system/lib/libchromatix_ov5693_hdr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov5693_hfr.so:system/lib/libchromatix_ov5693_hfr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov5693_preview.so:system/lib/libchromatix_ov5693_preview.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov5693_zsl.so:system/lib/libchromatix_ov5693_zsl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov8838_default_video.so:system/lib/libchromatix_ov8838_default_video.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov8838_hdr.so:system/lib/libchromatix_ov8838_hdr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov8838_hfr.so:system/lib/libchromatix_ov8838_hfr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov8838_preview.so:system/lib/libchromatix_ov8838_preview.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_ov8838_zsl.so:system/lib/libchromatix_ov8838_zsl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k3h2yx_default_video.so:system/lib/libchromatix_s5k3h2yx_default_video.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k3h2yx_hdr.so:system/lib/libchromatix_s5k3h2yx_hdr.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k3h2yx_hfr.so:system/lib/libchromatix_s5k3h2yx_hfr.so \
@@ -120,6 +148,11 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a1gx_hfr.so:system/lib/libchromatix_s5k6a1gx_hfr.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a1gx_preview.so:system/lib/libchromatix_s5k6a1gx_preview.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a1gx_zsl.so:system/lib/libchromatix_s5k6a1gx_zsl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a2ya_default_video.so:system/lib/libchromatix_s5k6a2ya_default_video.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a2ya_hdr.so:system/lib/libchromatix_s5k6a2ya_hdr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a2ya_hfr.so:system/lib/libchromatix_s5k6a2ya_hfr.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a2ya_preview.so:system/lib/libchromatix_s5k6a2ya_preview.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libchromatix_s5k6a2ya_zsl.so:system/lib/libchromatix_s5k6a2ya_zsl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_vd6869_default_video.so:system/lib/libchromatix_vd6869_default_video.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_vd6869_hdr.so:system/lib/libchromatix_vd6869_hdr.so \
     $(LOCAL_PATH)/proprietary/system/lib/libchromatix_vd6869_hfr.so:system/lib/libchromatix_vd6869_hfr.so \
@@ -185,7 +218,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libqmiservices.so:system/lib/libqmiservices.so \
     $(LOCAL_PATH)/proprietary/system/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     $(LOCAL_PATH)/proprietary/system/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libyuvimage.so:system/lib/libyuvimage.so \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/mfg.bin:system/vendor/firmware/mfg.bin
-
-#    $(LOCAL_PATH)/proprietary/system/etc/firmware/BCM4335A0_001.001.038.0015.0020.hcd:system/etc/firmware/BCM4335A0_001.001.038.0015.0020.hcd \
