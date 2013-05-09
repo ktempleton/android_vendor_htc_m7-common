@@ -135,6 +135,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libdsutils.so:system/lib/libdsutils.so \
     $(LOCAL_PATH)/proprietary/system/lib/libgemini.so:system/lib/libgemini.so \
     $(LOCAL_PATH)/proprietary/system/lib/libgsl.so:system/lib/libgsl.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libhtccamera.so:system/lib/libhtccamera.so \
+    $(LOCAL_PATH)/proprietary/system/lib/libhtccamera_yushaniiproc.so:system/lib/libhtccamera_yushaniiproc.so \
     $(LOCAL_PATH)/proprietary/system/lib/libhtc_rilhook.so:system/lib/libhtc_rilhook.so \
     $(LOCAL_PATH)/proprietary/system/lib/libidl.so:system/lib/libidl.so \
     $(LOCAL_PATH)/proprietary/system/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
